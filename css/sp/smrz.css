@@ -1,0 +1,20 @@
+@charset "utf-8";
+.smrz{ padding:0 10px 50px 10px; background: #fff; overflow: hidden;}
+.card{ width: 680px; float: left;}
+.card_con{ width: 120px; float: left;}
+.card_con dt{ width: 98px; height: 98px; float: left; border: 1px solid #e2e7ec; background: url(../../images/txbg.jpg) no-repeat; }
+.card_con dd{display: block; width: 98px; text-align: center; color: #333; line-height: 24px; padding-top: 5px; overflow: hidden;}
+.card_con dd a{ width: 48px; float: left; height: 24px; line-height: 24px; text-align: center; display: block; color: #fffeee; background: #ed5342; margin-top: 5px;}
+.card_con dd a:hover{ background: #bf3425; color: #fff;}
+.ml2{ margin-left: 2px;}
+.alsm{ line-height: 24px; color: #999}
+.alsm h4{ color: #666}
+
+.imgtl{ position: absolute;  z-index: 10;border: 5px solid #ed5342;}
+.imgtl01{top: 90px; left:240px; width: 360px;}
+.imgtl02{top: 90px; left:0px; width: 360px;}
+.imgtl03{top: 130px; left:325px; width:280px;}
+.imgtl i{position: absolute; top: -12px; left: 50%; margin-left: -4px; display: block; width: 0; height: 0; border-bottom: 9px solid #ed5342; border-right: 9px solid transparent; border-left: 9px solid transparent; }
+.imgtl.imgtl02 i{ left: 33%;}
+
+.imgtl03 p{ color: #333; padding: 0 20px 0; line-height: 24px;}

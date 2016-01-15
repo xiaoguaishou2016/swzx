@@ -1,0 +1,71 @@
+@charset "utf-8";
+.spmb{ padding: 0 10px 10px; overflow: hidden;}
+.use_shops{ margin: 30px 20px; overflow: hidden;}
+.use_shops dt{ width: 350px; height: 202px; background: url(../../images/t_bg.png) no-repeat;position: relative; float: left; margin-top: 10px;}
+.use_shops dt img{width: 270px;height: 175px;position: absolute;left: 40px;top: 8px;}
+.use_shops dd{ width: 380px; font-size: 13px; padding-top: 10px; padding-left: 20px; float: left;}
+.use_shops li{ clear: both; line-height: 38px;}
+.use_shops li a.red{ padding-left: 20px;}
+.use_shops li span{float: left; padding-right: 15px;}
+.color_mb{ float: left; margin-top: 11px;}
+.color_mb a{ width: 15px; height: 15px; float: left; margin-right: 5px; background: #666;}
+.color_mb a.bgred{ background: #ed5342;}
+.color_mb a.bgblue{ background: #105599;}
+.color_mb a.bggreen{ background: #187a53;}
+.color_mb a.bgblack{ background: #333;}
+.color_mb a:hover{ width: 16px; height: 16px; margin-top: -1px;}
+.color_mb a.hover{ width: 16px; height: 16px; margin-top: -1px;}
+.mblx input{float: left;margin-right: 5px;margin-top: 12px;}
+.mblx em{ margin-right: 20px;}
+.btn_shop a{ width: 150px; height: 36px; font-size: 15px; line-height: 36px; text-align: center; color: #fff; border-radius: 2px; background: #666; display: block; float: left; margin-right: 15px; margin-top: 10px;}
+.btn_shop a.yl_btn{ background: #ed5342;}
+.btn_shop .icon-{ font-size: 24px; vertical-align: middle; padding-right: 6px;}
+.btn_shop a:hover{filter:alpha(opacity=80);opacity:0.8;}
+
+.xxtj{ padding: 10px 0 10px; overflow: hidden;}
+.xxtj li{ width: 150px; height: 150px; float: left; margin-left: 10px; text-align: center;}
+.xxtj li h4{ font-size: 15px; font-weight: normal; color: #fff; height: 42px; line-height: 42px;border-bottom: 1px solid;}
+.xxtj li h4 i{ font-size: 24px; padding-right: 6px; vertical-align: middle;}
+.xxtj .cp_info h4{ border-bottom-color: #8cddd4; color: #004440;}
+.xxtj .qy_dt h4{border-bottom-color: #fcc0bb; color: #6a0f0f;}
+.xxtj .qy_xc h4{border-bottom-color: #fcd297; color: #553204;}
+.xxtj .yq_link h4{border-bottom-color: #9dd9fe; color: #01385e;}
+.xxtj .sm_rz h4{border-bottom-color: #ffbab2; color: #600b01;}
+.xxtj .pro_num{ height: 70px; line-height: 70px; overflow: hidden; text-align: center; font-size: 28px; color: #fff;}
+.xxtj .pro_num em{ font-size: 14px; color: #333; padding: 0 5px;}
+.xxtj .cp_info_btn{ height: 37px; line-height: 37px; text-align: center; font-size: 14px; color: #fff;background:rgba(0, 0, 0, 0.2) none repeat scroll 0 0 !important;filter:Alpha(opacity=20); background:#fff;display: block;}
+.xxtj li:hover .cp_info_btn{ background:rgba(0, 0, 0, 0.5) none repeat scroll 0 0 !important;filter:Alpha(opacity=50);}
+.czli li{ width: 150px;height: 120px; float: left; margin-left: 10px; text-align: center; margin-bottom: 10px;}
+.czli li:hover{ background: #f7f7f7;}
+.czli h4{ font-size: 15px; font-weight: normal; line-height: 42px; padding-top: 20px;}
+.czli a{ padding: 0 8px; font-size: 13px;}
+.czli .cp{ background: #ffecef;}
+.czli .xc{ background: #fffce7;}
+.czli .xs{ background: #f2ffe8;}
+.czli .sp{ background: #fcefff;}
+.czli .bn{ background: #e2f9fb;}
+.shop_mb .use_shops{ border-bottom: 1px dashed #e2e7ec; padding-bottom:40px;}
+.shop_mb .use_shops li{ height: 42px; line-height: 42px;}
+.shop_mb .btn_shop a{ margin-top: 15px;}
+.spmb .btn_shop a{ margin-top: 10px;}
+.btn_shop a.yl_btn{ margin-top: 23px;}
+.spmb .btn_shop a.yl_btn{ margin-top: 18px;}
+.btn_shop a.sy_btn{ width: 172px; height: 44px; line-height: 44px; background: #31bd80;}
+
+.spsz_con{margin: 10px 0; overflow: hidden;}
+.spsz_con li{ width: 123px; float: left; margin-left: 10px; height: 100px; text-align: center; font-size: 15px;   background: #f7f7f7;}
+.spsz_con li a{ display: block; color: #333;padding-top: 10px; height: 90px;}
+.spsz_con li .icon-{ font-size: 34px; display: block; width: 100%; text-align: center; height: 54px; line-height: 54px;}
+.spsz_con li.cp:hover a{ background: #ffecef; color: #e4000f;}
+.spsz_con li.tj:hover a{ background: #fcefff; color: #f63274;}
+.spsz_con li.xc:hover a{ background: #f2ffe8; color: #31bd80;}
+.spsz_con li.links:hover a{ background: #fffce7; color: #f46c00;}
+.spsz_con li.rx:hover a{ background: #e2f9fb; color: #40a4ff;}
+.spsz_con li.yh:hover a{ background: #ffecef; color: #e4000f;}
+.delad_sm{ line-height: 24px; float: left; width: 320px; padding-top: 6px; color: #333}
+
+.sjmb_btn{ width: 320px; height: 48px; line-height: 48px; font-size: 16px; text-align: center; border-radius: 3px; background: #de5432; margin: 20px auto 0; display: block; color: #fff; font-weight: normal;}
+.sjmb_btn:hover{filter:alpha(opacity=80);opacity:0.8; }
+.spmb_xq{overflow: hidden;  width: 729px; margin: 10px auto 10px;}
+.spmb_xq h4{ font-size: 28px; color: #de5342; overflow: hidden;line-height: 42px; padding-top: 10px;}
+.spmb_xq p{ font-size: 14px; color: #999; line-height:34px; background: url(../images/jgj) no-repeat 0 center;}

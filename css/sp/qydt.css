@@ -1,0 +1,26 @@
+@charset "utf-8";
+.qydt{ padding: 0px 10px 50px;}
+.wbtxt{ width: 680px; float: left;}
+.fbwz_btn{ width: 148px; height: 42px; line-height: 42px;border-radius: 3px; text-align: center; color: #fffeee;background: #ed5342; display: block; font-size: 16px; margin-left: 105px; margin-top: 20px;}
+.fbwz_btn:hover{background: #db4231;color: #fff;}
+.gldt{ }
+.gldt .fb_head{padding: 20px 0 15px; line-height: 24px;}
+.fb_head .fb_btn{display: block; width: 102px; height: 24px; text-align: center; color: #ffffff; float: left; background: #3fabf3; font-size: 13px;border-radius: 3px; margin-right: 10px;}
+.fb_head .fb_btn:hover{filter:alpha(opacity=80);opacity:0.8;}
+.fb_con .fb_con_top{background: #e0efd8; height: 34px; line-height: 34px; padding: 0 10px;}
+.fb_con .fb_con_top span.fl{padding-right: 20px; display: block;}
+.fb_con .fb_con_top span.fl input{vertical-align: middle; float: left;margin: 11px 5px 0 0;}
+.fb_con .fb_con_top span.fl a{color: #555; display: block;}
+.fb_con .fb_con_top span.fl a .icon-{font-size: 16px; float: left;margin: 9px 4px 0 0;}
+.fb_con .fb_con_top span a:hover{color: #ed5342}
+.qydtlist{}
+.qydtlist li{height: 80px;border-bottom: 1px solid #e2e7ec; padding: 0 10px;overflow: hidden;}
+.qydtlist .fb_cz{width: 100px; float: left; line-height: 60px;}
+.qydtlist .fb_cz a{display: block; float: left; padding: 0 3px; font-size: 16px;color: #999999}
+.qydtlist .fb_cz input{width: 14px; height: 14px; float: left; margin: 22px 4px 0 0}
+.qydtlist .fb_cz a:hover{color: #ed5342}
+.qydtlist .fbwz{float: left; padding-top: 8px; width: 670px;}
+.qydtlist .fbwz h4{font-size: 15px; font-weight: normal; line-height: 42px; height:42px; overflow: hidden;}
+.qydtlist .fbwz h4 a{color: #333}
+.qydtlist .fbwz span{width: 33%; float: left; color: #999999}
+.qydtlist .bgray{ background: #f7f7f7}

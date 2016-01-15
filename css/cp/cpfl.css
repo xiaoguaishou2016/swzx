@@ -1,0 +1,88 @@
+@charset "UTF-8";
+.cpfl{ padding: 0 10px 30px; overflow: hidden;}
+.cpReachBox{ padding-top: 20px; font-size: 14px; line-height: 30px;}
+.cpReachBox .slt{ height: 30px;}
+.cpReachBox .txt{ width: 240px; height: 28px; border: 1px solid #e2e7ec; margin-left: 20px; text-indent: 10px;}
+.cpReachBox .redBtn{ width: 72px; height: 30px; border: 1px solid #ff6f6f; margin-left: -1px; cursor: pointer;}
+.cpfl .tit{ height: 36px; line-height: 36px; background: #f6f6f6; margin-top: 15px; font-size: 14px; text-align: center; color: #333; font-weight: 700;}
+.cpfl .tit .item1{ width: 420px;}
+.cpfl .tit .item2{ width: 180px;}
+.cpfl .tit .item3{ width: 190px;}
+.cpList{}
+.cpList li{padding: 20px 0; border-bottom: 1px solid #e2e7ec; overflow: hidden; clear: both;}
+.cpList li:nth-child(2n){background: #f6f6f6;}
+.l01,.l02,.l03,.l04,.l05,.l06{ float: left;}
+.cpList .l01{ width: 34px; text-align: center; padding-top: 30px;}
+.cpList .l02{ width: 80px; text-align: center;}
+.cpList .l02 img{ width: 72px; height: 72px; padding: 2px; border: 1px solid #e2e7ec;}
+.cpList .l02:hover img{border:1px dashed #e2e7ec;opacity: .8;filter:alpha(opacity=80);}
+.cpList .l03{ width: 250px; padding-left: 10px;}
+.cpList .cpName a{ font-size: 14px; color: #333; line-height: 21px; height: 42px; display: block; overflow: hidden;}
+.cpList .cpName a:hover,.cpListName a:hover{ color: #ed5342;}
+.cpList .cpPrice{ padding-top: 15px; font-size: 14px;}
+.cpList .l04{ width: 120px; text-align: center;padding-left: 10px; padding-top: 10px;}
+.f14{ font-size: 14px;}
+.cpList .l05{ width: 160px;}
+.cpList .l06{ width: 120px; text-align: center; padding-top: 12px;}
+.cpList .l06 a{ font-size: 13px; padding: 0 5px;}
+.cpList .star{ float: none; margin: 0 auto;}
+.setLan{ height: 42px; line-height: 42px; background: #fff4e8; padding-right: 10px;}
+.setLan input{ float:left; margin:15px 10px 0 17px;}
+.setLan a{ display: block; float: left; margin-left: 10px; border-radius: 2px; background: #ed5342; padding: 0 20px; color: #fff; height: 24px; line-height: 24px; margin-top: 8px;}
+.setLan a:hover{ background: #d64031;}
+.cpstar{ font-size: 14px; font-weight: normal; padding-left: 150px;}
+.star{ margin-right: 10px; float: left;}
+.star1{ width: 24px; height: 30px; overflow: hidden;}
+.star2{ width: 48px; height: 30px; overflow: hidden;}
+.star3{ width: 72px; height: 30px; overflow: hidden;}
+.star4{ width: 96px; height: 30px; overflow: hidden;}
+.star5{ width: 120px; height: 30px; overflow: hidden;}
+.star i.icon-{ font-size: 18px; color: #ff8c45; float: left; width:24px; margin-top: 10px;}
+.cpfl .cpList .l03{ width: 300px;}
+.cpfl .cpList .l04{ width: 180px; padding: 0;}
+.cpfl .cpList .l04 p{height: 24px; line-height: 24px; overflow: hidden; padding: 0 0 0 30px;}
+.cpfl .cpList .l04 a{ width: 14px; height:14px;line-height: 15px; float: left; text-align: center; font-size: 14px; color: #888; display: block;margin-left: 5px; margin-top: 4px;}
+.cpfl .cpList .l04 a:hover{background: #ed5342; color: #fff; font-weight: 700;}
+.cpfl .cpList .l05{ width: 180px;}
+.cpfl .cpList .l05 .slt{ height: 30px; margin: 30px auto 0; width: 160px;}
+.cpfl .setLan .slt{ margin-left: 20px; margin-top: 10px;}
+.cpReachBox .blueBtn{margin-right: 20px;}
+.cpList .flName{ font-size: 14px;}
+.cpList .flName a{ color: #bebec2; font-size: 16px; float: left; padding: 0 5px 0 0;}
+.cpList .flName a:hover{ color: #ed5342;}
+.cpList .cpflL01{ padding-top: 5px;}
+.cpfl .cpList .l031{ width: 380px;}
+.cpfl .pageBtn{ padding-left: 63px;}
+.cpfl .pageBtn a{ display: block; width: 14px; border-radius: 2px; height: 14px; background: #f6f6f6; border: 1px solid #e2e7ec; font-weight: 700; text-align: center; line-height: 15px; color: #888; float: left; margin-left: 10px; font-size: 10px;}
+.cpfl .pageBtn a i{ font-weight: bolder;}
+.cpfl .pageBtn a:hover{ background: #d7d7d7; color: #fff; border-color:#d7d7d7; }
+.cpfl .cpList .l6{ width: 190px; text-align: center; font-size: 13px;}
+
+.resendNot{ padding: 30px 80px 0; overflow: hidden;}
+.resendNot dt{ width: 100px; float: left;}
+.resendNot dd h4{ font-size: 16px; font-weight: 700; line-height: 30px; padding-bottom:10px;}
+.resendNot dd p{  line-height: 42px;font-size: 13px;}
+.timeSlt{ font-size: 12px; font-weight: normal; border: 1px solid #e2e7ec; height: 24px; line-height: 24px; float: left; margin-left: 30px; margin-top: 5px; padding: 0 10px;}
+.timeSlt em{ color: #333; padding-left: 20px;}
+.sn1{ width: 370px;}
+.sn2{ width: 120px;}
+.sn3{ width: 160px;}
+.sn4{ width: 140px;}
+.l032{ width: 250px; padding-left:5px; float: left;}
+.l042{width: 120px; float: left; text-align: center; padding-top: 10px;}
+.cpNot{ padding: 30px 0;}
+.cpNot h2{ font-size: 16px; font-weight: 700; line-height: 48px; color: #333;}
+.setBtn{ width: 180px; margin: 10px auto;}
+.tac{text-align: center;}
+.resend{ padding: 30px 60px 0}
+.resend dl dd p{ line-height: 28px; }
+.ml10{ margin-left: 10px;}
+.ckbox{ width: 24px; height: 28px; float: left;}
+
+.ptherInfo{ height: 28px; border-radius: 3px; display: block; background: #01bd80; line-height: 28px; padding: 0 10px; margin-top: 5px;}
+.ptherInfo a{ color: #fff!important;}
+.reachSesult{ height: 50px; line-height: 50px; text-align: center; font-size: 14px; background: #def0d8; overflow: hidden; margin-top: 15px; width: 100%;}
+.fontBlod{ font-weight: 700;}
+.f16{font-size: 16px;}
+.offBtn{display: inline-block; margin-left: 10px;}
+.offBtn .icon-{ font-size: 16px; display: inline-block; margin: -3px 3px 0 5px; vertical-align: middle; padding-left: 0;;}

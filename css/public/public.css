@@ -1,0 +1,103 @@
+﻿@charset "utf-8";
+/*list page left menu*/
+.module_menu, .service_menu{ border-bottom: 1px solid #e2e7ec; padding-bottom: 10px;}
+.module_menu h4{font-size: 15px;font-weight: 700;color: #333;height: 36px;line-height: 36px;border-bottom: 1px solid #e2e7ec;}
+.module_menu h4 i{width: 24px;height: 22px;text-align: center;padding-top: 2px;font-size: 20px;color: #fff;display: block;float: left;margin: 6px 6px 0 10px;border-radius: 2px; background: #ed5342}
+.module_menu_li{position: relative; padding: 5px 0;}
+.module_menu_li li a{height: 36px; line-height: 36px; font-size: 14px; display: block; padding-left: 40px; color: #333;}
+.module_menu_li li a:hover{ color: #fff; background: #ed5342}
+.module_menu_li li a.hover{ color: #fff; background: #ed5342}
+.module_menu_li li a:hover i{ color: #fff;}
+.service_menu h3{font-size: 15px;font-weight: 700;color: #333;height: 36px;line-height: 36px; padding: 10px 10px 0;}
+.module_menu_li i{ margin-left: -20px; margin-right: 5px; color: #ed5342}
+.service_menu .module_menu_li li a{ height: 34px; line-height: 34px;}
+/*tips*/
+.tips{background: #dff0d8; padding:9px 15px; border:1px solid #d6e9c6; color: #468847;text-shadow: 0 1px 0 rgba(255, 255, 255, 0.5); margin-top: 10px;}
+.tips p{ line-height: 24px;}
+.tips h4{ font-size: 16px;font-weight: 700; height: 30px; line-height: 30px;}
+.main_tips{font-size: 16px;font-weight: 700; height: 30px; overflow: hidden; padding-top: 15px;}
+
+/*tabmenu*/
+.tabmenu{width: 100%;height: 38px; overflow: hidden;}
+.tab{ height: 36px;border-bottom: solid 1px #e2e7ec;}
+.tabmenu .tab li {margin-right: -1px; float: left;}
+.tabmenu .tab li a {font-size: 13px;color: #666;background: #F7F7F7;display: block; line-height: 35px; height: 35px; border:solid #e2e7ec;border-width: 1px 1px 0 1px; padding: 0 20px;}
+.tabmenu .tab a.hover{font-size: 14px;font-weight: 700;color: #ed5342;background: #FFF;cursor: default; height: 36px;}
+.tabmenu .tab a:hover{background: #e7e7e7; color: #000;}
+.tabmenu .tab a:hover.hover{background: #fff; color: #ed5342;}
+
+/*biao dan*/
+.bdlist{}
+.bdlist .li{ clear: both; padding-top: 20px; line-height: 32px; position: relative;}
+.bdlist .li .span{ width: 90px; float: left; padding-right: 15px; text-align: right; color: #333; height: 32px; overflow: hidden; font-size: 13px;}
+.bdlist .li .span i{ font-size: 14px;font-family: "\65B0\5B8B\4F53"; padding: 0 5px 0 0;}
+.bdlist .li .txt{ width: 320px; height: 30px; border: 1px solid #e2e7ec; font-family: "Microsoft YaHei"; padding-left: 10px; font-size: 12px;}
+.bd-tip{ color: #999; padding: 3px 0 0 105px; line-height: 24px; overflow: hidden; width: 660px;}
+.cw-tip{ padding:3px 0 0 105px;height: 24px; line-height: 24px; overflow: hidden; width: 660px;}
+.cw-tip i{ font-size: 16px; float: left; margin: 2px 5px 0 0;}
+.bdlist .li .selet{ width: 150px; height: 30px; line-height: 30px; border-color:#e2e7ec;font-family: "Microsoft YaHei"; color: #666; margin-right: 8px;}
+.jyms{ float: left; color: #333; width: 680px;}
+.jyms em{ display: block; float: left; margin-right: 20px;}
+.jyms em input{ float: left; margin: 9px 3px 0 0;}
+.txtare{ width: 575px; height: 100px; line-height: 24px; border:1px solid #e2e7ec; padding: 10px;font-family: "Microsoft YaHei"; font-size: 12px;}
+.bdlist .next_step{ display: block; margin-left: 105px; width: 332px; height: 48px; line-height: 48px; text-align: center; color: #fffeee; font-size: 16px; margin-top: 30px; border-radius: 3px; background: #ed5342;}
+.bdlist .next_step1{ display: block; margin-left: 105px; width: 332px; height: 48px; line-height: 48px; text-align: center; color: #fffeee; font-size: 16px; margin-top: 30px; border-radius: 3px; background: #dcdcdc;}
+.bdlist .next_step:hover{ background: #db4231;color: #fff;}
+
+/*prompt_option*/
+.prompt_option{ font-size: 16px;font-weight: 700; line-height: 42px; margin: 0 auto; padding: 40px 0;  text-align: center; overflow: hidden;}
+.prompt_option .icon-{ width: 48px; height: 42px; font-size: 42px;vertical-align: middle;letter-spacing: normal;word-spacing: normal;display: inline-block;}
+.prompt_option span{ display: inline-block;}
+.prompt_option p{ font-size: 14px; font-weight: normal; color: #666}
+.prompt_option p a:hover{ color: #ed5342;}
+.wx_tips{ background: #FCF8E3; border: 1px solid #FBEED5; height: 40px; line-height: 40px; overflow: hidden; margin:10px; padding: 0 10px;font-size: 13px;color: #b68022;}
+.wx_tips a:hover{ color: #ed5342;}
+
+/*other gongneng*/
+.othergn{padding: 10px; overflow: hidden;}
+.othergn li{ width: 190px; height: 134px; float: left; margin-left: 10px; position: relative; border-radius: 2px; overflow: hidden; cursor: pointer;}
+.othergn li.no{margin-left: 0;}
+.othergn li i{ display: block; width: 48px; height: 48px; font-size: 34px; text-align: center; color: #fff; line-height: 48px; margin: 20px auto 0; border-radius: 2px;}
+.othergn li h4{ color: #333; text-align: center; line-height: 34px; font-size: 14px;}
+.othergn li p{ text-align: center;}
+.othergn li:hover .ljmore{ top: 98px;-webkit-transition: all .1s ease-out;-moz-transition: all .1s ease-out;transition: all .1s ease-out;}
+.othergn li .ljmore{ position: absolute; top: 134px; left: 0; background: #f0fafb; text-align: center; width: 100%;-webkit-transition: all .1s ease-out;-moz-transition: all .1s ease-out;transition: all .1s ease-out; }
+.othergn li .ljmore a{ background: #19cce1;color: #fff; width: 82px; height: 24px; line-height: 24px; display: block;border-radius: 2px; margin: 0 auto;}
+.othergn li .ljmore a:hover{ background: #12b8cc;}
+.othergn .sty01{background: #f0fafb;}
+.othergn .sty01 i{background: #19cce1;}
+.othergn .sty02, .othergn .sty02 .ljmore{background: #f9f9f1;}
+.othergn .sty02 i, .othergn .sty02 .ljmore a{background: #ff8c45;}
+.othergn .sty02 .ljmore a:hover{ background: #ed7c36}
+.othergn .sty03, .othergn .sty03 .ljmore{background: #e6fbe8;}
+.othergn .sty03 i, .othergn .sty03 .ljmore a{background: #72d016;}
+.othergn .sty03 .ljmore a:hover{ background: #67be12}
+.othergn .sty04, .othergn .sty04 .ljmore{background: #f8eef9;}
+.othergn .sty04 i, .othergn .sty04 .ljmore a{background: #a14ff2;}
+.othergn .sty04 .ljmore a:hover{ background: #903fe0}
+
+/* fenye daohang*/
+.pager{text-align: center;margin: 20px 0 0px;font-family: Tahoma, Arial;float: right;}
+.pager-nav a{display: inline-block;width: 28px;height: 28px;line-height: 28px;margin-right: 2px;color: #666;border: 1px solid #CCC;background-color: #FBFBFB;background-image: -webkit-linear-gradient(top, rgba(251, 251, 251, 1) 0, rgba(244, 244, 244, 1) 100%);background-image: -moz-linear-gradient(top, rgba(251, 251, 251, 1) 0, rgba(244, 244, 244, 1) 100%);background-image: linear-gradient(top, rgba(251, 251, 251, 1) 0, rgba(244, 244, 244, 1) 100%);}
+.pager-nav .split{display: inline-block;width: 63px;height: 35px;line-height: 35px;color: #666;font-weight: bold;}
+.pager-nav .page-pre, .pager-nav .page-next{width: 63px;}
+.pager-nav a:hover{background-color: #F4F4F4;background-image: -webkit-linear-gradient(top, rgba(240, 240, 240, 1) 0, rgba(231, 231, 231, 1) 100%);background-image: -moz-linear-gradient(top, rgba(240, 240, 240, 1) 0, rgba(231, 231, 231, 1) 100%);background-image: linear-gradient(top, rgba(240, 240, 240, 1) 0, rgba(231, 231, 231, 1) 100%);text-decoration: none;}
+.pager-nav a.current{border-color: #DC4F53;background-color: #ed5342; background-image: none;font-weight: bold;color: #fff !important;}
+.pager-nav a.current:hover{cursor: default;background-color: #ed5342;color: #fff;}
+
+/*tanchuang public*/
+.tcWin{ padding: 20px;}
+.tcWin h2{ font-size: 16px; font-weight: normal; text-align: center; line-height: 48px;}
+.tcWin p{ font-size: 14px; text-align: center;}
+.tcWin h2 i{ display: inline-block; font-size: 32px; margin: -4px 5px 0 0; vertical-align: middle;}
+
+/*btn zujian*/
+.btn{ border-radius: 2px; display: block; text-align: center; padding: 0 20px; font-size: 15px;}
+.mBtn{ height: 36px; line-height:36px;}
+.redBtn{ background: #ff6f6f; color: #fffeee;}
+.redBtn:hover{ background:#ee5d5d; color: #fff;}
+.greenBtn{ background: #31bd80;color: #fffeee;}
+.greenBtn:hover{background:#229d67; color: #fff;}
+.blueBtn{ background: #40aaf3;color: #fffeee;}
+.blueBtn:hover{background:#2f97de; color: #fff;}
+

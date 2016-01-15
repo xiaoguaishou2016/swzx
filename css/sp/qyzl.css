@@ -1,0 +1,40 @@
+﻿@charset "utf-8";
+.qyzl{background: #fff; padding:0px 10px 50px 10px; overflow: hidden;}
+.qyzl .zycp{ float: left; width: 680px;}
+.qyzl .zycp_bge{ float: left;position: relative; margin-top: 0px; margin-bottom:5px}
+.qyzl .txt2{ width: 110px; height: 26px; border: 1px solid #e2e7ec; overflow: hidden; margin-right: 10px;font-size: 13px; color: #444; line-height: 26px; padding: 0 40px 0 10px;}
+.qyzl .txt3{  height: 26px; border: 1px solid #e2e7ec; overflow: hidden; margin-right: 10px;font-size: 13px; color: #444; line-height: 26px; padding: 0 40px 0 10px;}
+.qyzl .zycp_bge .del{ font-size: 18px; color: #666; display: block; font-weight: 700; width: 24px; height: 24px; position: absolute; top: 0; *+top: 5px; right: 10px; *+right: 5px; text-align: center; padding-right: 3px;}
+.qyzl .zycp_bge .del:hover{ color: #ed5342;}
+.qyzl .addhy{display: block; background: #ed5342; height: 28px; width: 142px; text-align: center; color: #fffeee; font-size: 13px; line-height: 28px; overflow: hidden; margin-left: 150px;
+margin-top: -28px;}
+.qyzl .addhy:hover{ background: #db4231;color: #fff;}
+.qyzl .tx{ float: left;}
+.qyzl .tx dt{ width: 98px; height: 98px; background: url(/content/images/txbg.jpg) no-repeat; border:1px solid #e2e7ec; float: left;}
+.qyzl .tx dd{ float: left; height: 24px;}
+.qyzl .tx dd a{ width:48px; text-align: center; line-height: 24px; height: 24px; background: #ed5342; color: #fffeee; display: block; float: left; margin-left: 10px; margin-top: 74px;}
+.qyzl .tx dd a:hover{ background: #db4231;color: #fff;}
+.qyzl .tx dd a.djxg{ width: 72px;}
+.qyzl .xxdz{ width: 680px; float: left;}
+.qyzl .xxdz .txt{ margin-top: 10px; width: 462px}
+.gn_show{ float: left; padding-left: 20px;}
+.gn_show em{ padding: 0 20px 0 5px;}
+
+/*.bdlist ul{overflow: hidden;}*/
+.bdlist li{ clear: both; padding-top: 20px; line-height: 32px; position: relative;}
+.bdlist li span{ width: 90px; float: left; padding-right: 15px; text-align: right; color: #333; height: 32px; overflow: hidden; font-size: 13px;}
+.bdlist li span i{ font-size: 14px;font-family: "\65B0\5B8B\4F53"; padding: 0 5px 0 0;}
+.bdlist li .txt{ width: 320px; height: 30px; border: 1px solid #e2e7ec; font-family: "Microsoft YaHei"; padding-left: 10px; font-size: 13px; color: #444;}
+.bd-tip{ color: #999; padding: 3px 0 0 105px; line-height: 24px; overflow: hidden; width: 660px;}
+.cw-tip{ padding:3px 0 0 105px;height: 24px; line-height: 24px; overflow: hidden; width: 660px;}
+.cw-tip i{ font-size: 16px; float: left; margin: 2px 5px 0 0;}
+.bdlist li .selet{ width: 160px; height: 30px; line-height: 30px; border-color:#e2e7ec;font-family: "Microsoft YaHei"; color: #444; margin-right: 8px;font-size: 13px;}
+
+.sameSpan{position:relative;height:30px;line-height:30px;display:inline-block;border:1px solid #e2e7ec;padding:0 0 0 8px;cursor:pointer;background:white;float:left;margin-right:9px;margin-bottom:10px; width:105px;}
+.sameSpan i{display:inline-block;height:30px;line-height:30px;padding-right:24px;position:relative;overflow:hidden;}
+.sameSpan em.icon-{ float: right; display: block; font-size: 14px; line-height: 30px; padding-right: 5px;}
+.sameSpan ul{width:630px;position:absolute;border:1px solid #e2e7ec;background:white;left:-1px;top:30px;margin-bottom:10px;display:none;z-index:10;box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);}
+.sameSpan ul li{width:90px;float:left;overflow:hidden;clear:none;padding-top: 0;line-height: 36px;}
+.sameSpan ul li:first-child{border-top:0;}
+.sameSpan ul li a{display:block;height:36px;line-height:36px;padding:0 8px; color:#494949;}
+#City ul{left:-120px;}

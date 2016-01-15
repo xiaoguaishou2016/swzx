@@ -1,0 +1,24 @@
+.zdydh .swzx_items{background:none;}
+.zdydh .swzx_items .title{border-bottom:none;}
+.zdydh .swzx_items em.gray{font-size:12px;font-weight:normal;padding-left:5px;}
+.zdydh .swzx_items .bjbtn{width:84px;height:27px;line-height:27px;border-radius:3px;background:#3fabf3;display:block;float:right;text-align:center;color:#FFFFFF;margin:5px -10px 0 10px;}
+.zdydh .swzx_items .bjbtn:hover{background:#319de5;color:#FFFFFF;}
+.default_menu{overflow:hidden;padding:0 0 20px 0;}
+.default_menu li{width:104px;height:80px;float:left;cursor:pointer;border-radius:5px;padding-top:16px;line-height:24px;position:relative;border:1px dashed #ababab;text-align:center;margin:20px 0 0 17px;}
+.default_menu li:hover{color:#ed5342;}
+.default_menu li .icon-{font-size:36px;color:#ed5342}
+.default_menu li .del{font-size:16px;position:absolute;right:-7px;top:-8px;}
+.addmenu{}
+.tabnav{padding:0 10px;border-bottom:1px solid #e2e7ec;overflow:hidden;}
+.tabnav li{float:left;padding:0 10px;font-size:12px;color:#666666;height:36px;line-height:36px;cursor:pointer;}
+.tabnav i{margin-top:9px;color:#e2e7ec;}
+.tabnav li.hover{color:#ed5342;}
+.tabcontant{overflow:hidden;padding:10px 10px 20px;}
+.tabcontant li{position:relative;width:228px;float:left;border-radius:5px;border:1px dashed #ababab;margin-right:15px;margin-top:15px;}
+.tabcontant li .addthis{width:16px;height:16px;position:absolute;top:-8px;right:-7px;font-size:16px;}
+.tabcontant li .addthis a{display:block;}
+.tabcontant dl{height:64px;padding:8px 5px;overflow:hidden;}
+.tabcontant dl:hover{background: #f2f2f2;}
+.tabcontant dt{font-size:42px;width:48px;height:64px;line-height:52px;float:left;}
+.tabcontant dd h4{font-size:14px;font-weight:normal;color:#ed5342;height:24px;line-height:24px;}
+.tabcontant dd p{line-height:18px;color:#999;height:36px;overflow:hidden;}
